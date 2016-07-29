@@ -1,0 +1,21 @@
+{
+	'bg-image': 'link here',
+	'title': 'title here',
+	'heading': 'heading here',
+	'paragraph': 'primary text block here',
+	'github-link': 'link here',
+	'footer-links': [
+		{ 
+			'link': 'link here',
+			'text': 'text here'
+		},
+		{ 
+			'link': 'link here',
+			'text': 'text here'
+		},
+		{ 
+			'link': 'link here',
+			'text': 'text here'
+		}
+	]
+}
